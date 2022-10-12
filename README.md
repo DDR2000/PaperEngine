@@ -13,5 +13,5 @@ Low-level Philosophy
 Low-memory optimized code employing best modern C++ practices where appropriate.
 
 Considerations:
-*RAII Compliance
-*Branchless where possible
+* RAII Compliance
+* Branchless where possible
